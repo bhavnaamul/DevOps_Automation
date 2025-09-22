@@ -19,4 +19,11 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+	
+	<build>
+	
+		<finalName>DevOpsAutomationIntegration</finalName>
+
+	</build>
+	
 </project>

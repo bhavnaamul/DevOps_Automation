@@ -1,6 +1,5 @@
 package demo1;
 
-import org.testng.annotations.Test;
 
 public class DemoDocker {
 	public static void main(String a[]) {
